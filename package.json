@@ -1,0 +1,26 @@
+{
+    "name": "aibot",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-fs": "1.4.1",
+        "node-red-contrib-loop-processing": "0.5.1",
+        "node-red-contrib-openai-ubos": "1.0.7",
+        "node-red-contrib-telegrambot": "15.1.9",
+        "node-red-node-mongodb": "0.2.5",
+        "node-red-contrib-pdfparse": "1.0.6",
+        "jsdom": "22.1.0",
+        "node-red-contrib-pinecone": "1.0.7",
+        "@martip/node-red-xlsx": "1.0.2",
+        "chromadb": "1.5.11",
+        "openai": "4.14.2",
+        "moment": "2.29.4",
+        "node-red-contrib-chromadb": "1.0.0"
+    },
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}

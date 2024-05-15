@@ -1,0 +1,42 @@
+{
+    "7908a755f1520aa7": {
+        "user": "${AIBOTDB-MONGO-USER-NAME}",
+        "password": "${AIBOTDB-MONGO-PASSWORD}"
+    },
+    "4b07803a52e468f5": {
+        "token": "{global.get('telegram').BOT_TOKEN}"
+    },
+    "a32b312f472ff9d3": {
+        "token": "6851144846:AAFN9436UTwqQRcevfxhLM-nVHoo8gvk_Sg"
+    },
+    "2e682b4264e3c155": {},
+    "290dd574c1b5afa1": {},
+    "2bd82ed72cf97054": {},
+    "d8182f2910dcd33f": {},
+    "f0d5ba2a22d6dc2f": {},
+    "6524564f78fe43f2": {},
+    "f2de3aef43efb57a": {},
+    "c59352ee6aec7d0d": {},
+    "e656959b6bb65df8": {},
+    "a609f6927ac45615": {},
+    "d5550fe9f265b396": {},
+    "22f96893b0c97739": {},
+    "0b4ff76f2b117a6a": {},
+    "eabf87c97c2af554": {},
+    "76aba1958ede1343": {},
+    "fb94efdd7c9a719e": {},
+    "e59bd24ec20c7266": {},
+    "0664e6c3fa1f6132": {},
+    "f58cc1c13181dcf1": {},
+    "0e17791da17ef446": {},
+    "5824e30670745419": {},
+    "4fda29115b94df09": {},
+    "a85ba356b00c51b0": {},
+    "3e35edc6870bb62a": {},
+    "4737e8eb4e3bf517": {},
+    "ea3c9a01daa0a075": {},
+    "61328cedf50576b3": {},
+    "6e9ef3615f654361": {},
+    "fc0e7d42e99bc0df": {},
+    "f84c2cc6c68ba6a7": {}
+}
